@@ -8,3 +8,6 @@ sqltoy
 
 ##infra
 https://github.com/GoogleContainerTools/jib/
+
+##Event/Message
+https://github.com/kedacore/keda https://keda.sh/  
