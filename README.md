@@ -17,6 +17,7 @@
 - https://github.com/apache/airflow/
 - https://github.com/PowerJob/PowerJob
 - https://cloud.tencent.com/developer/article/1676120 工作流和状态机
+- https://github.com/serverlessworkflow/specification/blob/0.5.x/specification.md
 
 ## Importance
 - https://www.toutiao.com/a6881914961598087694/
