@@ -12,6 +12,7 @@
 ## Event/Message
 - https://github.com/kedacore/keda 
 - https://keda.sh/
+- https://github.com/dapr/dapr
 
 ## Job/Task/Workflow
 - https://github.com/apache/airflow/
