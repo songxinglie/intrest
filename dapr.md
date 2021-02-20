@@ -5,4 +5,5 @@
     https://www.infoq.cn/article/cQjtZWPREoo0jqlRY3kQ
 - Learning Dapr  
   https://www.oreilly.com/library/view/learning-dapr/9781492072416/
-- 
+- https://www.infoq.cn/article/cQjtZWPREoo0jqlRY3kQ 多运行时微服务架构实践
+- https://blog.csdn.net/alitech2017/article/details/108276732 云原生时代，微服务如何演进？
