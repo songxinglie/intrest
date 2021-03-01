@@ -24,8 +24,11 @@
 使能开发者面向 Kubernetes 进行本地开发和测试正在开始成为一个备受关注的话题，在这个领域中，来自纽约的 Tilt 项目是其中的佼佼者。阿里云和腾讯云有也分别有这个话题下的不同维度的解决方案，比如 KT Connet 和 Nocalhost。
 
 ```
+- https://www.toutiao.com/a6881914961598087694/ 本地开发的微服务如何调用k8s的微服务
 - https://github.com/didi/LogicFlow
 - 
+
+
 ## Event/Message
 - https://github.com/kedacore/keda 
 - https://keda.sh/
