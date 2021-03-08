@@ -10,4 +10,5 @@
     - 事件触发策略 trigger
     - 数据审计策略 audited
     - 查询缓存策略 querycache
+    - 数据加密策略
 - 
