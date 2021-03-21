@@ -27,6 +27,10 @@
 - https://www.toutiao.com/a6881914961598087694/ 本地开发的微服务如何调用k8s的微服务
 - https://github.com/didi/LogicFlow
 - https://github.com/TommyLemon/APIAuto
+- Spring Native
+- https://github.com/fluxcd/flux
+- https://github.com/derailed/popeye
+- 
 
 ## Event/Message
 - https://github.com/kedacore/keda 
