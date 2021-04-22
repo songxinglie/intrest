@@ -35,6 +35,7 @@
 - https://github.com/ykfe/imove  https://www.infoq.cn/article/hMVR8kJvRhXxod8ydiBt
 - https://github.com/Alluxio/alluxio
 - https://github.com/hygieia/Hygieia
+- https://github.com/openkraken/kraken
 
 ## Event/Message
 - https://github.com/kedacore/keda 
