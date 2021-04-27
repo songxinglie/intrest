@@ -37,6 +37,7 @@
 - https://github.com/hygieia/Hygieia
 - https://github.com/openkraken/kraken https://openkraken.com/
 - https://github.com/shuzheng/zheng
+- https://github.com/PaddlePaddle/PaddleOCR
 - 
 
 ## Event/Message
