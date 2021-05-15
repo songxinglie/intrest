@@ -40,6 +40,7 @@
 - https://github.com/PaddlePaddle/PaddleOCR
 - https://github.com/pinterest/querybook
 - https://github.com/slatedocs/slate
+- https://github.com/ianstormtaylor/slate
 - 
 
 ## Event/Message
