@@ -39,6 +39,7 @@
 - https://github.com/shuzheng/zheng
 - https://github.com/PaddlePaddle/PaddleOCR
 - https://github.com/pinterest/querybook
+- https://github.com/slatedocs/slate
 - 
 
 ## Event/Message
