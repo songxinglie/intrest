@@ -47,6 +47,7 @@
 - https://github.com/n8n-io/n8n
 - https://github.com/alibaba/compileflow
 - https://github.com/shulieTech/Takin
+- https://github.com/SigNoz/signoz
 - 
 
 ## Event/Message
