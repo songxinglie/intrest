@@ -50,6 +50,7 @@
 - https://github.com/SigNoz/signoz
 - https://github.com/efoxTeam/emp
 - https://github.com/matomo-org/matomo
+- https://github.com/lettuce-io/lettuce-core
 - 
 
 ## Event/Message
