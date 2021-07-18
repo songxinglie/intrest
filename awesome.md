@@ -53,6 +53,7 @@
 - https://github.com/lettuce-io/lettuce-core
 - https://github.com/mikecao/umami
 - https://docs.erda.cloud/1.1/manual/
+- https://github.com/koderover/zadig
 - 
 
 ## Event/Message
