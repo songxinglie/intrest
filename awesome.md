@@ -55,6 +55,7 @@
 - https://docs.erda.cloud/1.1/manual/
 - https://github.com/koderover/zadig
 - https://github.com/emqx/emqx
+- https://github.com/wazuh/wazuh
 - 
 
 ## Event/Message
