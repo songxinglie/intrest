@@ -58,6 +58,7 @@
 - https://github.com/wazuh/wazuh
 - https://github.com/apache/openmeetings
 - https://gitee.com/mingSoft/
+- http://doc.mingsoft.net/mcms/
 - 
 
 ## Event/Message
