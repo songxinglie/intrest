@@ -57,6 +57,7 @@
 - https://github.com/emqx/emqx
 - https://github.com/wazuh/wazuh
 - https://github.com/apache/openmeetings
+- https://gitee.com/mingSoft/
 - 
 
 ## Event/Message
