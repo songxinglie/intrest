@@ -59,6 +59,7 @@
 - https://github.com/apache/openmeetings
 - https://gitee.com/mingSoft/
 - http://doc.mingsoft.net/mcms/
+- https://github.com/dataease/dataease
 - 
 
 ## Event/Message
