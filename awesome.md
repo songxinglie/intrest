@@ -60,6 +60,7 @@
 - https://gitee.com/mingSoft/
 - http://doc.mingsoft.net/mcms/
 - https://github.com/dataease/dataease
+- https://github.com/apache/incubator-kyuubi
 - 
 
 ## Event/Message
