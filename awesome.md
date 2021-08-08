@@ -62,6 +62,7 @@
 - https://github.com/dataease/dataease
 - https://github.com/apache/incubator-kyuubi
 - https://github.com/cortexproject/cortex
+- https://github.com/debezium/debezium
 - 
 
 ## Event/Message
