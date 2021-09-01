@@ -68,6 +68,7 @@
 - https://github.com/Terry-Mao/goim
 - https://github.com/ventoy/Ventoy
 - https://github.com/jeequan/jeepay
+- https://github.com/didi/sharingan
 - 
 
 ## Event/Message
