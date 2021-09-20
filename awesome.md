@@ -73,6 +73,7 @@
 - https://github.com/polarismesh/polaris
 - https://github.com/avwo/whistle
 - https://github.com/justauth/JustAuth
+- https://github.com/OpenIMSDK/Open-IM-Server
 - 
 
 ## Event/Message
