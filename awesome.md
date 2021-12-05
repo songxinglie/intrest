@@ -75,6 +75,16 @@
 - https://github.com/justauth/JustAuth
 - https://github.com/OpenIMSDK/Open-IM-Server
 - https://github.com/alibaba/QLExpress
+- https://github.com/juicedata/juicefs
+- https://github.com/FairwindsOps/polaris
+- https://github.com/zegl/kube-score
+- https://github.com/wercker/stern
+- 
+
+## git
+- https://github.com/gogs/gogs
+- https://github.com/go-gitea/gitea
+- https://github.com/theonedev/onedev
 - 
 
 ## UI
@@ -84,6 +94,7 @@
 - https://github.com/Tencent/kbone
 - https://github.com/remaxjs/remax
 - https://github.com/Tencent/Hippy
+- https://github.com/openkraken/kraken
 - 
 
 ## Event/Message
