@@ -81,6 +81,8 @@
 - https://github.com/wercker/stern
 - https://github.com/kubesphere/kubekey
 - https://github.com/jetlinks/jetlinks-community
+- https://github.com/yitter/IdGenerator
+- 
 - 
 
 ## git
