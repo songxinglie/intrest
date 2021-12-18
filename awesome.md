@@ -79,7 +79,8 @@
 - https://github.com/FairwindsOps/polaris
 - https://github.com/zegl/kube-score
 - https://github.com/wercker/stern
-- https://github.com/StarRocks/starrocks
+- https://github.com/kubesphere/kubekey
+- https://github.com/jetlinks/jetlinks-community
 - 
 
 ## git
