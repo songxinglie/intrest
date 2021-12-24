@@ -82,7 +82,8 @@
 - https://github.com/kubesphere/kubekey
 - https://github.com/jetlinks/jetlinks-community
 - https://github.com/yitter/IdGenerator
-- 
+- https://github.com/WeBankFinTech
+- https://github.com/apache/nifi
 - 
 
 ## git
