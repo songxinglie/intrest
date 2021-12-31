@@ -86,7 +86,20 @@
 - https://github.com/apache/nifi
 - https://github.com/antvis/Graphin
 - https://github.com/jetlinks/jetlinks-community
+- https://github.com/derailed/popeye
+- https://github.com/theonedev/onedev
+- https://github.com/gogs/gogs
+- https://github.com/go-gitea/gitea
+- https://github.com/shuzheng/zheng
+- https://github.com/apache/incubator-seatunnel
 - 
+
+## Excel
+- https://gitee.com/lemur/easypoi
+- http://doc.wupaas.com/docs/easypoi
+- https://github.com/alibaba/easyexcel
+- 
+
 
 ## git
 - https://github.com/gogs/gogs
