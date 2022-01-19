@@ -94,11 +94,37 @@
 - https://github.com/apache/incubator-seatunnel
 - https://github.com/JDFED/drip-form
 - https://github.com/keycloak/keycloak
+- https://github.com/WeBankFinTech/DataSphereStudio
+- https://github.com/streamxhub/streamx
+- https://github.com/jetlinks/reactor-ql
+- https://github.com/JSQLParser/JSqlParser
+- https://github.com/ngbdf/redis-manager
+- https://github.com/GitLiveApp/GitLive
+- https://github.com/appsmithorg/appsmith
+- https://github.com/Tencent/CodeAnalysis
+- https://github.com/hasura/graphql-engine
+- https://github.com/sagframe/sagacity-sqltoy
+- https://github.com/le5le-com/topology
+- https://github.com/le5le-com/topology.js
+- https://github.com/gephi/gephi
+- https://github.com/spacecloud-io/space-cloud
+- https://github.com/Budibase/budibase
+- https://github.com/alash3al/sqler
+- https://github.com/ajv-validator/ajv
+- https://github.com/merico-dev/lake
+- https://github.com/dtm-labs/dtm
 - 
 
 ## IIot
 - https://github.com/mainflux/mainflux
 - https://github.com/apache/incubator-streampipes
+- 采集 PLC4X
+- 存储 IotDB TDEngine
+- 计算 Streampipes
+- https://github.com/IoT-Technology/IoT-Technical-Guide
+- https://github.com/jetlinks/jetlinks-community
+- https://github.com/node-red/node-red
+- https://blog.csdn.net/vividea/article/details/117999983
 - 
 
 ## Excel
@@ -107,6 +133,9 @@
 - https://github.com/alibaba/easyexcel
 - 
 
+## redis
+- https://github.com/patrikx3/redis-ui
+- 
 
 ## git
 - https://github.com/gogs/gogs
