@@ -123,7 +123,10 @@
 - https://github.com/KubeOperator/KubePi
 - https://github.com/dgiot/dgiot  https://tech.iotn2n.com/
 - https://github.com/Leaflet/Leaflet
-- 
+- https://github.com/htoooth/Leaflet.ChineseTmsProviders
+- https://github.com/netdata/netdata
+- https://github.com/uber/cadence
+- https://github.com/baidu/EasyFaaS
 - 
 
 
@@ -137,6 +140,23 @@
 - https://github.com/jetlinks/jetlinks-community
 - https://github.com/node-red/node-red
 - https://blog.csdn.net/vividea/article/details/117999983
+- https://github.com/emqx/emqx
+- https://github.com/lf-edge/ekuiper
+- https://github.com/IoT-Technology/IoT-Technical-Guide
+- https://baijiahao.baidu.com/s?id=1718981607973016816
+- https://baijiahao.baidu.com/s?id=1717841739370634140
+- https://baijiahao.baidu.com/s?id=1688735386301122879
+- https://baijiahao.baidu.com/s?id=1704062015592733220
+- KubeEdge
+- OpenYurt
+- SuperEdge
+- https://blog.csdn.net/j3T9Z7H/article/details/114557611
+- https://mp.weixin.qq.com/s/bsdHghXHtraKNffp-5yAmg    *
+
+## Flow
+- https://zhuanlan.zhihu.com/p/328060780
+- https://blog.csdn.net/weixin_41734687/article/details/107305364
+- https://cloud.tencent.com/developer/article/1847011
 - 
 
 ## Excel
