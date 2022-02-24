@@ -127,6 +127,15 @@
 - https://github.com/netdata/netdata
 - https://github.com/uber/cadence
 - https://github.com/baidu/EasyFaaS
+- https://github.com/cloudreve/Cloudreve
+- https://github.com/youseries/ureport
+- https://www.w3cschool.cn/ureport/
+- https://github.com/triggermesh/triggermesh
+- https://cloud.tencent.com/developer/article/1415121
+- https://github.com/baidu/uid-generator
+- https://github.com/micro-zoe/micro-app
+- https://github.com/google/cel-spec
+- https://canmeng.net/c/1036
 - 
 
 
@@ -152,11 +161,15 @@
 - SuperEdge
 - https://blog.csdn.net/j3T9Z7H/article/details/114557611
 - https://mp.weixin.qq.com/s/bsdHghXHtraKNffp-5yAmg    *
+- https://blog.csdn.net/vividea/article/details/117999983
+- 
 
 ## Flow
 - https://zhuanlan.zhihu.com/p/328060780
 - https://blog.csdn.net/weixin_41734687/article/details/107305364
 - https://cloud.tencent.com/developer/article/1847011
+- https://help.aliyun.com/product/113549.html
+- https://docs.aws.amazon.com/zh_cn/step-functions/latest/dg/welcome.html
 - 
 
 ## Excel
