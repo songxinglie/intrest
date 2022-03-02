@@ -136,6 +136,9 @@
 - https://github.com/micro-zoe/micro-app
 - https://github.com/google/cel-spec
 - https://canmeng.net/c/1036
+- https://github.com/foxpage/foxpage
+- https://github.com/lerna/lerna
+- https://github.com/apache/incubator-inlong
 - 
 
 
