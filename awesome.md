@@ -139,6 +139,15 @@
 - https://github.com/foxpage/foxpage
 - https://github.com/lerna/lerna
 - https://github.com/apache/incubator-inlong
+- https://github.com/YaoApp/yao
+- https://opensumi.com/zh  https://github.com/opensumi/core/
+- https://docs.microsoft.com/zh-cn/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs
+- https://www.bookstack.cn/read/dapr-1.5-zh/8d04139b17dee39b.md
+- https://zhuanlan.zhihu.com/p/396211457
+- https://tlog.yomahub.com/
+- https://github.com/kyma-project/kyma
+- https://github.com/RunaCapital/awesome-oss-alternatives
+- https://github.com/theonedev/onedev
 - 
 
 
@@ -165,6 +174,8 @@
 - https://blog.csdn.net/j3T9Z7H/article/details/114557611
 - https://mp.weixin.qq.com/s/bsdHghXHtraKNffp-5yAmg    *
 - https://blog.csdn.net/vividea/article/details/117999983
+- https://github.com/lf-edge/ekuiper
+- https://thingsboard.io/
 - 
 
 ## Flow
@@ -173,6 +184,7 @@
 - https://cloud.tencent.com/developer/article/1847011
 - https://help.aliyun.com/product/113549.html
 - https://docs.aws.amazon.com/zh_cn/step-functions/latest/dg/welcome.html
+- https://cadenceworkflow.io/
 - 
 
 ## Excel
