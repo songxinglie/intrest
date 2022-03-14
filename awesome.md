@@ -148,6 +148,14 @@
 - https://github.com/kyma-project/kyma
 - https://github.com/RunaCapital/awesome-oss-alternatives
 - https://github.com/theonedev/onedev
+- https://github.com/PGYER/codefever
+- https://github.com/kubecube-io/KubeCube https://www.kubecube.io/
+- https://github.com/kubediag/kubediag
+- https://github.com/kubesphere/kubeeye
+- https://github.com/kuberhealthy/kuberhealthy
+- https://github.com/loggie-io/loggie
+- https://github.com/alibaba/lowcode-engine
+- https://github.com/taowen/awesome-lowcode
 - 
 
 
