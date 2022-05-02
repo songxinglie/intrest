@@ -45,3 +45,11 @@
     最后，所有的彩色在亮度更低的暗黑模式下需要转换为饱和度更低的对应颜色。例如警戒红色从 #EE3B28 映射为 #F37668，品牌蓝色从 #287DFA 映射为 #7EB0FC。
 
 ```
+
+
+# 
+- 在数据分析领域，社区有很多开源的数据交换工具，例如 Exchangis、DataX、DataX Web 和 Dbus 等；在数据开发探索分析工具上，有 Scriptis 、Apache Zeppelin 和 Hue 等；数据可视化工具上，有 Visualis、Davinci 和 Superset 等；开源调度工具有 Schedulis、DolphinScheduler 和 Airflow 等。
+
+在数据治理领域，开源的数据质量校验工具有 Qualitis、pydqc、Deequ 和 GriFFin 等；元数据管理工具有 DataHub、Apache Atlas 等。
+
+在机器学习领域，有 Prophecis、Kubeflow、MLFlow 和天枢人工智能开源平台等。
