@@ -172,7 +172,13 @@
 - https://github.com/EsperoTech/yaade
 - https://github.com/Sayi/poi-tl
 - https://github.com/Alluxio/alluxio
+- https://github.com/kestra-io/kestra
+- https://github.com/opensergo/opensergo-specification
+- https://github.com/hoppscotch/hoppscotch
+- https://github.com/micrometer-metrics/micrometer
 - 
+  
+
 
 
 ## IIot
