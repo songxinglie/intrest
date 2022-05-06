@@ -179,6 +179,8 @@
 - https://github.com/liquibase/liquibase
 - https://github.com/oasis-engine/engines
 - https://github.com/moshowgame/SpringBootCodeGenerator http://java.bejson.com/generator/
+- https://gitee.com/xiandafu/beetlsql
+- https://github.com/meilisearch/meilisearch
 - 
   
 
@@ -198,6 +200,18 @@
 
 ## TSDB
 - https://github.com/questdb/questdb
+- 
+
+## HTAP / NewSQL
+- https://github.com/baidu/BaikalDB
+- https://github.com/pingcap/tidb
+- https://github.com/cockroachdb/cockroach
+- https://github.com/yugabyte/yugabyte-db
+- https://doris.apache.org/
+- 
+
+## Storage
+- https://github.com/Alluxio/alluxio
 - 
 
 ## IIot
@@ -225,6 +239,7 @@
 - https://blog.csdn.net/vividea/article/details/117999983
 - https://github.com/lf-edge/ekuiper
 - https://thingsboard.io/
+- https://github.com/IoT-Technology/IoT-Technical-Guide
 - 
 
 ## Flow
