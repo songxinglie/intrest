@@ -203,8 +203,17 @@
 - https://github.com/kahing/goofys
 - https://gitee.com/robergroup/pdman https://gitee.com/robergroup/chiner-java  https://gitee.com/robergroup/pdmaner?_from=gitee_search https://my.oschina.net/skymozn/blog/5515012
 - https://github.com/redkubes/otomi-core https://otomi.io/
+- https://github.com/Tencent/Hippy
+- https://github.com/ZhongFuCheng3y/austin
+- https://www.npmjs.com/package/@zuoyanart/lens
+- https://gogocode.io/zh/docs/specification/vs
+- https://github.com/CcSimple/vue-plugin-hiprint
+- https://guide.aotu.io/docs/index.html?continueFlag=406b4b0bb8d0d9b346e161fd13b2a5c0
+- https://gitee.com/MTrun 大屏 
+- https://github.com/megaease/easegress
+- https://github.com/dromara/gobrs-async
+- https://github.com/ory/kratos
 - 
-  
 
 ## Low Code
 - https://github.com/Tencent/tmagic-editor
