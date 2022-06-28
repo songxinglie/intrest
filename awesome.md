@@ -214,6 +214,40 @@
 - https://github.com/dromara/gobrs-async
 - https://github.com/ory/kratos
 - https://github.com/SPLWare/esProc
+- https://github.com/citusdata/citus
+- https://github.com/zinclabs/zinc
+- https://github.com/adobe/react-spectrum
+- https://github.com/directus/directus
+- https://github.com/duckdb/duckdb
+- https://github.com/opensumi/core
+- https://github.com/fantasticit/think
+- https://github.com/Alluxio/alluxio
+- https://github.com/newpanjing/gofound
+- https://github.com/ozanyurtsever/verbum
+- https://github.com/ToolJet/ToolJet
+- https://github.com/readysettech/readyset
+- https://github.com/cashapp/sqldelight
+- https://github.com/adrai/flowchart.js
+- https://github.com/citusdata/citus
+- https://github.com/tauri-apps/tauri
+- https://www.toutiao.com/article/7109878582184395305/?log_from=8361bd355185_1656372510186  许可证lisence校验和代码混淆的实现原理
+- https://github.com/rqlite/rqlite
+- https://github.com/dragonflydb/dragonfly
+- https://github.com/mermaid-js/mermaid
+- https://github.com/ory/kratos
+- https://github.com/dromara/gobrs-async
+- https://hop.apache.org/
+- https://github.com/Vincit/objection.js
+- https://github.com/hoppscotch/hoppscotch
+- https://github.com/lf-edge/ekuiper
+- https://github.com/ealush/vest
+- https://github.com/h8r-dev/heighliner
+- https://github.com/appwrite/appwrite
+- https://github.com/bram2w/baserow
+- https://github.com/apache/incubator-devlake
+- https://github.com/nocodb/nocodb
+- https://github.com/trinodb/trino
+- https://github.com/YeDaxia/JApiDocs
 - 
 
 ## Low Code
