@@ -248,6 +248,11 @@
 - https://github.com/nocodb/nocodb
 - https://github.com/trinodb/trino
 - https://github.com/YeDaxia/JApiDocs
+- https://github.com/datageartech/datagear
+- https://github.com/OpenLineage/OpenLineage
+- https://github.com/typicode/lowdb
+- https://github.com/tencentmusic/cube-studio
+- https://github.com/flowerfine/scaleph
 - 
 
 ## Low Code
