@@ -268,6 +268,12 @@
 - https://github.com/myide/see
 - https://think.codingit.cn/  https://github.com/fantasticit/think
 - https://github.com/liyupi/sql-generator
+- https://github.com/devstream-io/devstream https://www.devstream.io/
+- https://github.com/apache/incubator-kvrocks
+- https://github.com/ZhongFuCheng3y/austin
+- https://github.com/archguard/archguard  https://archguard.org/
+- https://github.com/apache/incubator-devlake https://devlake.incubator.apache.org/
+- 
 - 
 - 
 
