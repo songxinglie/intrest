@@ -254,6 +254,21 @@
 - https://github.com/tencentmusic/cube-studio
 - https://github.com/flowerfine/scaleph
 - https://github.com/jquense/react-big-calendar
+- https://github.com/sohutv/cachecloud
+- https://github.com/apache/pinot
+- https://github.com/ai/nanoid
+- https://github.com/nocobase/nocobase
+- https://github.com/AykutSarac/jsonvisio.com
+- https://github.com/didi/LogicFlow
+- https://github.com/myide/see
+- https://github.com/h8r-dev/heighliner
+- https://github.com/yomorun/yomo
+- https://gitee.com/qiwen-cloud/qiwen-file
+- https://github.com/supabase/supabase
+- https://github.com/myide/see
+- https://think.codingit.cn/  https://github.com/fantasticit/think
+- https://github.com/liyupi/sql-generator
+- 
 - 
 
 ## Low Code
@@ -314,6 +329,8 @@
 - https://github.com/lf-edge/ekuiper
 - https://thingsboard.io/
 - https://github.com/IoT-Technology/IoT-Technical-Guide
+- https://github.com/IoTSharp/IoTSharp
+- 
 - 
 
 ## Flow
