@@ -273,8 +273,26 @@
 - https://github.com/ZhongFuCheng3y/austin
 - https://github.com/archguard/archguard  https://archguard.org/
 - https://github.com/apache/incubator-devlake https://devlake.incubator.apache.org/
-- 
-- 
+- https://github.com/cubefs/cubefs
+- https://github.com/slowrookie/redis-web-manager
+- https://github.com/lettuce-io/lettuce-core https://mp.weixin.qq.com/s/QOq2zUI0AFGqc8lNtSmShQ
+- https://github.com/metaflowys/metaflow
+- https://github.com/jreleaser/jreleaser
+- https://github.com/restic/restic http://dockone.io/article/2434759
+- https://github.com/vmware-tanzu/velero
+- https://github.com/slime-io/slime  https://www.infoq.cn/article/HhO2ZQrb68sEPwID1w6j
+- https://github.com/hango-io/hango-gateway
+- https://xie.infoq.cn/article/c967504fb8a0436dcb29b6590  最好的 6 个 React Table 组件详细亲测推荐
+- https://hop.apache.org/
+- https://github.com/pig-mesh/pig
+- https://www.seatable.cn/help/
+- http://heighliner.dev/
+- https://github.com/findyourmagic/dber
+- https://github.com/liquibase/liquibase
+- https://github.com/koderover/zadig
+- https://github.com/gocrane/crane
+- https://github.com/facebook/hermes
+- https://github.com/devtron-labs/devtron
 - 
 
 ## Low Code
@@ -291,6 +309,7 @@
 - https://github.com/nocobase/nocobase https://cn.nocobase.com/
 - https://gitee.com/MTrun/go-view 
 - https://gitee.com/MTrun/react-big-screen
+- https://github.com/smartxworks/sunmao-ui
 - 
 
 ## TSDB
@@ -336,8 +355,9 @@
 - https://thingsboard.io/
 - https://github.com/IoT-Technology/IoT-Technical-Guide
 - https://github.com/IoTSharp/IoTSharp
-- 
-- 
+- https://xie.infoq.cn/article/90fc1fb2b56e1a8724abd51c8  物联网低代码平台常用《组件介绍》
+- https://doc.dc3.site/#/ https://gitee.com/pnoker/iot-dc3
+- https://mp.weixin.qq.com/s?__biz=MzIzNzU5NTYzMA==&mid=2247490219&idx=1&sn=83a69f008847619461076442685cacf3&chksm=e8c7642adfb0ed3c1f9b7804505d9f2cc100212b1991915788b443d718d749a10920e6c772bc&scene=27#wechat_redirect  KubeEdge在国家工业互联网大数据中心的架构设计与应用
 
 ## Flow
 - https://zhuanlan.zhihu.com/p/328060780
