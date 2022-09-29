@@ -293,7 +293,22 @@
 - https://github.com/gocrane/crane
 - https://github.com/facebook/hermes
 - https://github.com/devtron-labs/devtron
+- https://github.com/ballerina-platform/ballerina-lang
+- https://github.com/getsentry/sentry
+- https://gitee.com/anji-plus/report https://ajreport.beliefteam.cn/report-doc/ 大屏
+- https://github.com/getsentry/sentry
+- https://github.com/vmware-tanzu/velero
+- https://github.com/longguikeji/arkid
+- https://github.com/koderover/zadig
+- https://gitee.com/xuebusi/redis-admin
+- https://github.com/novuhq/novu
+- https://github.com/didi/KnowStreaming https://knowstreaming.com/
+- https://github.com/antonmedv/codejar
+- https://github.com/aws/event-ruler/
+- https://github.com/roapi/roapi
+- https://github.com/casbin/casbin
 - 
+  
 
 ## Low Code
 - https://github.com/Tencent/tmagic-editor
@@ -358,6 +373,9 @@
 - https://xie.infoq.cn/article/90fc1fb2b56e1a8724abd51c8  物联网低代码平台常用《组件介绍》
 - https://doc.dc3.site/#/ https://gitee.com/pnoker/iot-dc3
 - https://mp.weixin.qq.com/s?__biz=MzIzNzU5NTYzMA==&mid=2247490219&idx=1&sn=83a69f008847619461076442685cacf3&chksm=e8c7642adfb0ed3c1f9b7804505d9f2cc100212b1991915788b443d718d749a10920e6c772bc&scene=27#wechat_redirect  KubeEdge在国家工业互联网大数据中心的架构设计与应用
+- https://it.sohu.com/a/566226860_121147809  EMQ云边协同工业物联网解决方案在油田开采企业的数字化转型实践
+- https://baijiahao.baidu.com/s?id=1733084020614946369&wfr=spider&for=pc 深度揭秘华为边缘计算系统设计的六大核心原则
+- http://www.uml.org.cn/xjs/202101262.asp KubeEdge — Overview
 
 ## Flow
 - https://zhuanlan.zhihu.com/p/328060780
